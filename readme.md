@@ -1,3 +1,5 @@
+isso é uma alteração
+
 # Automation Description
 
 This project contains an automation designed to streamline and optimize data analytics workflows. It automates repetitive tasks, enhances efficiency, and ensures accuracy in processing large datasets. The solution integrates seamlessly with existing tools and provides detailed logging for transparency and troubleshooting.
